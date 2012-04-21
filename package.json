@@ -1,0 +1,35 @@
+{
+  "name": "hook.io-github",
+  "description": "Emits hook.io events on github items.",
+  "keywords": ["hook.io", "github", "api", "json", "subscribe"],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brynbellomy/hook.io-github.git"
+  },
+  "author": "bryn austin bellomy (http://github.com/brynbellomy)",
+  "main": "./lib/github.js",
+  "scripts": {
+  },
+  "bin": {
+    "hookio-github": "./bin/github"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "hook.io": "0.8.x",
+    "github": "0.1.x"
+    "async": "0.1.x",
+    "github": "0.1.1",
+    "request": "2.9.x",
+    "github-flavored-markdown": "1.0.x"
+  },
+  "devDependencies": {
+  },
+  "licenses": [ {
+    "type": "MIT",
+    "url" : "http://github.com/brynbellomy/hook.io-github/raw/master/LICENSE"
+  }]
+
+}
