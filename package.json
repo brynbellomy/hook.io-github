@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "hook.io": "0.8.x",
-    "github": "0.1.x"
+    "github": "0.1.x",
     "async": "0.1.x",
     "github": "0.1.1",
     "request": "2.9.x",
